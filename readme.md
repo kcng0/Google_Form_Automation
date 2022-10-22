@@ -1,9 +1,11 @@
 Requirement:
-  check the chrome version in chrome://settings/help and get the driver from https://chromedriver.chromium.org/downloads. Then edit DRIVER_PATH to the path of the chrome   chromedriver.exe in the main program
 
-  Install selenium by pip install selenium
+&emsp;check the chrome version in chrome://settings/help and get the driver from https://chromedriver.chromium.org/downloads. Then edit &emsp; DRIVER_PATH to the path of the chromedriver.exe in the main program
 
-  Detail explanations are at the automate_function.py with explanation
+&emsp;Install selenium by pip install selenium
+
+&emsp;Detail explanations are at the automate_function.py with explanation
 
 Run:
-  Start running main.py
+
+&emsp;Start running main.py
