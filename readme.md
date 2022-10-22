@@ -4,7 +4,7 @@ Requirement:
 
 &emsp;Install selenium by pip install selenium
 
-&emsp;Detail explanations are at the automate_function.py with explanation
+&emsp;Detail explanations are at the automate_function.py with documentation
 
 Run:
 
